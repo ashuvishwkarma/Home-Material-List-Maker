@@ -4,7 +4,7 @@
 
  This content is released under the MIT License (MIT)
 
- Copyright (c) 2018 , Sanheen Sethi
+ Copyright (c) 2018 , Ashu Kumar
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
@@ -26,9 +26,9 @@
 
  * @package HTML Salmon List Maker
  * @author	Sanheen Sethi
- * @copyright	Copyright (c) 2018, Sanheen Sethi
+ * @copyright	Copyright (c) 2018, Ashu Kumar
  * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	https://github.com/sanheensethi
+ * @link	https://github.com/ashuvishwkarma
  * @since	Version 1.0.0
  * @version	Version 1.0.0
  * @filesource
@@ -61,9 +61,5 @@
  	  Place your software in www folder then use it simply. You need to Make sure that Both will on Php server and Database Server.
  	  if all is ok. Then use it in your Local Machine Simply.
  	  
- 	  
- 	[Facebook](https://www.facebook.com/sanheen.sethi376)
- 	[Github](https://www.github.com/sanheensethi)
- 	[Linkedin](https://www.linkedin.com/in/sanheen-sethi-1114a7157)
  	
- @Sanheen Sethi.
+ @AshuKumar
